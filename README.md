@@ -1,9 +1,10 @@
 This project was bootstrapped with [Create React App Typescript]
 
-Owner: huykhanh.cse@gmail.com
 
-Demo: https://kangel7-2.000webhostapp.com/
-
+![alt text](https://github.com/vladucuvoican/clone-reales-real-estate/blob/master/a1.png)
+![alt text](https://github.com/vladucuvoican/clone-reales-real-estate/blob/master/a2.png)
+![alt text](https://github.com/vladucuvoican/clone-reales-real-estate/blob/master/a3.png)
+![alt text](https://github.com/vladucuvoican/clone-reales-real-estate/blob/master/a4.png)
 ## Usage
 
 First `npm i` then:
